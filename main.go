@@ -78,7 +78,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baseamasiro"       // base天城文加解密
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"          // b站相关
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bookreview"        // 哀伤雪刃吧推书记录
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chess"             // 国际象棋
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chess"             // 国际象棋
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"            // 选择困难症帮手
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"      // 说抽象话
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chrev"             // 英文字符翻转
@@ -90,7 +90,7 @@ import (
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"             // 嘉心糖发病
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/dish"              // 程序员做饭指南
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/drawlots"          // 多功能抽签
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/driftbottle"       // 漂流瓶
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/driftbottle"       // 漂流瓶
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"          // 合成emoji
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emozi"             // 颜文字抽象转写
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/event"             // 好友申请群聊邀请事件处理
@@ -100,7 +100,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"           // 原神抽卡
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"               // 制图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"            // 搜索GitHub仓库
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"        // 猜歌
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"        // 猜歌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hitokoto"          // 一言
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs"                // 炉石
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku"             // 百人一首
